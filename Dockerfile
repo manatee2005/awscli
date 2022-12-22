@@ -1,1 +1,1 @@
-FROM aws-cli:2.9.9
+FROM amazon/aws-cli:latest
